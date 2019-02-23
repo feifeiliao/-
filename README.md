@@ -6,3 +6,7 @@
 
 2.使用的库名称
 
+requests 库,BeautifulSoup库,csv库。
+
+3.爬取的步骤
+首先进行网页的爬取，然后分析网页，最后导出为csv文件
